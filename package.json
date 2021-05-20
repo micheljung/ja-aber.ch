@@ -1,0 +1,24 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "next": "^10.0.0",
+    "next-plugin-svgr": "^1.0.0",
+    "next-themes": "0.0.14",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "save-svg-as-png": "^1.4.17"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.4"
+  }
+}

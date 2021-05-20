@@ -1,0 +1,8 @@
+<svg id="shuffle" width="64.398" height="50.886" version="1.1" viewBox="0 0 64.398 50.886" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-width="5">
+    <path d="m2.5 9.6225h16.009l8.6508 10.37m9.0627 10.864 8.6508 10.37h17.024" />
+    <path d="m2.5 41.264h16.009l26.363-31.605h17.024" />
+    <path d="m54.737 16.818 7.1592-7.1592-7.1592-7.1592" stroke-linejoin="round"/>
+    <path d="m54.738 48.386 7.1592-7.1592-7.1592-7.1592" stroke-linejoin="round"/>
+  </g>
+</svg>
