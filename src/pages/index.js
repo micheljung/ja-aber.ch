@@ -904,7 +904,7 @@ export default function Justifications({data}) {
     <div className="dark:text-gray-400">
 
       <Head>
-        <title>JAIDS: {title}</title>
+        <title>{title}</title>
       </Head>
 
       <h1 className="text-xl font-bold mb-4 dark:text-gray-300">{title}</h1>
