@@ -30,6 +30,9 @@ let harmJustifications = [
       keinen Schmerz verursachen würde, wenn wir ihm mit einem Bolzenschussgerät in den Kopf schiessen, ihm Strom
       durch das Gehirn fliessen lassen oder es mit Gas ersticken, ihm anschliessend die Kehle durchschneiden
       und verbluten lassen, so ist dies ohne Zweifel böses Unrecht, das wir jemandem zufügen.
+      </p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/IZHmUaq6Y9Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
@@ -44,7 +47,9 @@ let harmJustifications = [
       Ei pro Monat. Durch extreme Züchtung legen Hühner heute fast jeden tag ein Ei. Sobald ihre Eierproduktion abnimmt
       und sie nicht mehr profitabel sind, werden sie zum Schlachthaus gebracht, wo ihnen die Kehle aufgeschlitzt wird
       und sie zu Tode verbluten. Dies ist üblicherweise nach 1 - 2 Jahre der Fall. Die natürliche Lebenserwartung
-      beträgt bis zu 10 Jahre.
+      beträgt bis zu 10 Jahre. </p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/QdMdik6PFlM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
@@ -882,7 +887,7 @@ String.prototype.capitalize = function () {
 function Title({category}) {
   return (
     <div className="content">
-      <h1 id={"cat-"+category.id} className="content-title">{category.title}</h1>
+      <h1 id={"cat-" + category.id} className="content-title">{category.title}</h1>
     </div>
   )
 }
