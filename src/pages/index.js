@@ -66,7 +66,7 @@ let harmJustifications = [
       ihre Mutter wiederholt geschwängert, von ihrem Kalb getrennt und gemolken. Sobald ihre Milchproduktion nachlässt
       und nicht mehr profitabel ist, wird ihr die Kehle aufgeschnitten. Dies ist üblicherweise nach 4.5 - 6 Jahren der
       Fall. Ihre natürliche Lebenserwartung beträgt bis zu 20 Jahre.</p>
-      <p>
+      <p class="my-3 flex justify-center">
         <iframe width="480" height="270" src="https://www.youtube.com/embed/bX3BTJH1Qv8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
