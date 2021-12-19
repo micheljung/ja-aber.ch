@@ -37,7 +37,7 @@ let harmJustifications = [
   ),
   new Justification(
     "eier",
-    "Hühnern die Eier wegzunehmen verursacht kein Leid",
+    "Eier zu konsumieren verursacht kein Leid",
     "Hennen sind qualgezüchtet, männliche Küken nutzlos, beide werden letztendlich getötet.",
     `<p>
       In der Eierindustrie werden fast nur Weibchen benötigt, denn Männchen legen keine Eier. Daher werden Männchen
@@ -54,7 +54,7 @@ let harmJustifications = [
   ),
   new Justification(
     "milch",
-    "Kühen die Milch wegzunehmen verursacht kein Leid",
+    "Milchprodukte zu konsumieren verursacht kein Leid",
     "Kühe sind qualgezüchtet, männliche Kälber nutzlos, beide werden letztendlich getötet.",
     `<p>
       In der Milchindustrie werden fast nur Weibchen benötigt, denn Männchen geben keine Milch. Wie alle Säugetiere
@@ -65,7 +65,9 @@ let harmJustifications = [
       getötet, oder in der Rindermast gemästet und für Rindfleisch getötet. Ist das Kalb ein Weibchen, wird sie wie
       ihre Mutter wiederholt geschwängert, von ihrem Kalb getrennt und gemolken. Sobald ihre Milchproduktion nachlässt
       und nicht mehr profitabel ist, wird ihr die Kehle aufgeschnitten. Dies ist üblicherweise nach 4.5 - 6 Jahren der
-      Fall. Ihre natürliche Lebenserwartung beträgt bis zu 20 Jahre.
+      Fall. Ihre natürliche Lebenserwartung beträgt bis zu 20 Jahre.</p>
+      <p>
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/bX3BTJH1Qv8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
