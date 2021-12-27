@@ -37,7 +37,7 @@ let harmJustifications = [
   ),
   new Justification(
     "eier",
-    "Eier zu konsumieren verursacht kein Leid",
+    "Eier zu essen verursacht kein Leid",
     "Hennen sind qualgezüchtet, männliche Küken nutzlos, beide werden letztendlich getötet.",
     `<p>
       In der Eierindustrie werden fast nur Weibchen benötigt, denn Männchen legen keine Eier. Daher werden Männchen
@@ -54,7 +54,7 @@ let harmJustifications = [
   ),
   new Justification(
     "milch",
-    "Milchprodukte zu konsumieren verursacht kein Leid",
+    "Milchprodukte verursachen kein Leid",
     "Kühe sind qualgezüchtet, männliche Kälber nutzlos, beide werden letztendlich getötet.",
     `<p>
       In der Milchindustrie werden fast nur Weibchen benötigt, denn Männchen geben keine Milch. Wie alle Säugetiere
