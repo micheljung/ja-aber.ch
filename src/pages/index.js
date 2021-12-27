@@ -72,7 +72,7 @@ let harmJustifications = [
   ),
   new Justification(
     "scheren",
-    "Schafe zu scheren verursacht kein Leid",
+    "Schafwolle verursacht kein Leid",
     "Schafe werden qualgezüchtet, grob behandelt und letztendlich getötet.",
     `<p>
       Je mehr Wolle ein Schaf produziert, desto profitabler. Merinoschafe sind deshalb speziell darauf gezüchtet, eine
@@ -84,7 +84,9 @@ let harmJustifications = [
       diese zeitaufwändig und kostspielig ist. Scherer sind üblicherweise untrainierte Arbeitskräfte, die nicht pro
       Stunde sondern pro Schaf bezahlt werden. Um möglichst viele Schafe zu scheren, werden diese oft sehr Grob
       behandelt und dabei verletzt. Jedes Schaf, egal ob für Wolle oder Fleisch gezüchtet, wird in Gefangenschaft
-      gehalten und letztendlich mit einem Schnitt durch die Kehle getötet.
+      gehalten und letztendlich mit einem Schnitt durch die Kehle getötet.</p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/Z4N3d0-riJU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
