@@ -91,7 +91,7 @@ let harmJustifications = [
   ),
   new Justification(
     "seide",
-    "Raupen die Seide zu nehmen verursacht kein Leid",
+    "Seide verursacht kein Leid",
     "Raupen werden lebendig zu Tode gekocht.",
     `<p>
       Seide wird vom Kokon einer Seidenraupe gewonnen. Die Seidenraupe produziert mit Hilfe spezieller Drüsen in ihrem
@@ -100,6 +100,9 @@ let harmJustifications = [
       einen ununterbrochenen Seidenfaden benötigen, töten sie die Seidenraupen ca. 10 Tagen nachdem diese sich
       eingesponnen haben. Hierfür werden sie üblicherweise lebendig zu Tode gekocht. Anschliessend können die
       Kokons auseinandergewickelt werden. Für nur 250g Seide werden ca. 3000 Seidenraupen getötet.
+      </p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/KNGviD7s-F8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
