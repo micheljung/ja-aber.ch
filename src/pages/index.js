@@ -107,7 +107,7 @@ let harmJustifications = [
   ),
   new Justification(
     "honig",
-    "Bienen den Honig zu nehmen verursacht kein Leid",
+    "Honig verursacht kein Leid",
     "Honig ist wichtige Nahrung für Bienen. Bienen werden verstümmelt, zerquetscht und getötet.",
     `<p>
       Honig wird von Bienen produziert und als Nahrung gelagert. Es ist die einzige Nahrung, die sie lagern, während
@@ -121,11 +121,14 @@ let harmJustifications = [
       Bienen umgegangen wird, werden Bienen zerquetscht, wenn ihr Bienenstock gestört wird. Weltweit gibt es rund
       20'000 verschiedene Bienenarten. Nur neun davon sind Honigbienen. Durch die fortlaufende Züchtung konkurrieren
       diese die Wildbienen, die wesentlich effizienter bestäuben als Honigbienen und nun vom Aussterben bedroht sind.
+      </p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/sPXGDmLa-Gk" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
     "schmerz-pflanzen",
-    "Pflanzen empfinden auch Schmerzen, daher ist es egal ob man Tiere oder Pflanzen tötet",
+    "Pflanzen fühlen auch Schmerzen",
     "Falsch, aber Veganer töten ohnehin weniger Pflanzen.",
     `
       <p>Reize werden über Nervenbahnen an das Gehirn geleitet und von diesem als Schmerz interpretiert. Pflanzen
@@ -141,11 +144,14 @@ let harmJustifications = [
       minimieren, so ergibt es keinen Sinn, <strong>erst</strong> Billionen von Pflanzen an Milliarden von Tieren zu
       verfüttern <strong>und obendrauf</strong> noch diese Tiere zu töten, anstatt Pflanzen direkt zu essen. Liegen
       einem Pflanzen am Herzen, so müsste man vegan sein.</p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/jQvba26Pmgw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
       `
   ),
   new Justification(
     "lokaler-bauer",
-    "ich kaufe meine Lebensmittel beim Bauern aus dem Dorf",
+    "ich kaufe nur beim Bauern aus dem Dorf",
     "Auch dort werden Tiere ausgebeutet und getötet.",
     `
       <p>Welchen Unterschied macht dies? Eliminiert die Tatsache, dass der Bauer nicht weit entfernt ist, automatisch
@@ -170,6 +176,9 @@ let harmJustifications = [
       nicht umso grausamer, ihm dieses Leben ohne gutem Grund zu nehmen? Wer seine Produkte vom "Bauern aus dem Dorf"
       kauft, tut dies vermutlich nur, um sein Gewissen zu beruhigen. Die Realität ist jedoch, dass auch diese Tiere
       unnötig ausgebeutet werden und ihnen Leid zugefügt wird.</p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/a2UnbtU5ll0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
       `
   ),
   new Justification(
