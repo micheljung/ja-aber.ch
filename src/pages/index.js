@@ -199,6 +199,10 @@ let harmJustifications = [
       dann ja nichts spürt. Oder wenn nicht Menschen, dann zum Beispiel die Enten und Schwäne am See, oder die Katze des
       Nachbarn. Es ist irrelevant ob jemand schmerzfrei getötet wird oder nicht, solange das Töten selbst die
       unmoralische Tat ist.</p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/rvFDsandAqM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
+      
       `
   ),
   new Justification(
