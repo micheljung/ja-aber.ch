@@ -183,7 +183,7 @@ let harmJustifications = [
   ),
   new Justification(
     "schmerzfrei",
-    "Tiere spüren nichts, wenn sie getötet werden",
+    "Tiere werden schmerzfrei getötet",
     "Das Töten selbst ist unmoralisch.",
     `
       <p>Die standardmässige, gesetzlich vorgeschriebene Form der Schlachtung ist, Tiere zunächst zu betäuben und ihnen
