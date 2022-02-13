@@ -202,24 +202,26 @@ let harmJustifications = [
       <p class="my-3 flex justify-center">
         <iframe width="480" height="270" src="https://www.youtube.com/embed/rvFDsandAqM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>
-      
       `
   ),
   new Justification(
     "ernte",
-    "bei der Ernte von Getreide sterben viel mehr Tiere",
-    "Die Fütterung von Tieren benötigt viel mehr Getreide.",
+    "bei der Ernte sterben mehr Tiere",
+    "Für die Fütterung von Tieren wird viel mehr geerntet.",
     `
-      <p>Um ein Tier bis zur Schlachtung durchzufüttern benötigt es viel mehr Getreide, als wenn wir dieses Getreide
-      selbst essen würden. Somit ist man neben dem Tod des Tieres auch für alle Tode verantwortlich, die durch die
-      Fütterung des Tieres verursacht wurden.</p>
+      <p>Um ein Tier bis zur Schlachtung durchzufüttern benötigt es viel mehr pflanzliches Futtermittel, als wenn wir
+      selbst pflanzliche Produkte essen würden. Somit ist man neben dem Tod des Tieres auch für alle Tode
+      verantwortlich, die durch die Fütterung des Tieres verursacht wurden.</p>
       <p>Man könnte argumentieren, dass wir nur Produkte von Tieren essen sollten, die von Gras ernährt wurden.
-      Doch selbst wenn man ignoriert, dass auch weidenden Kühen zusätzlich Kraftfutter verabreicht wird und dass
-      sich weder Schweine noch Hühner von Gras ernähren, so wäre dies nicht praktikabel. Es fehlt schlichtwegs der
-      Platz.</p>
+      Doch selbst wenn man ignoriert, dass auch weidenden Kühen zusätzlich geerntetes Futter verabreicht wird und dass
+      sich Schweine und Hühner hauptsächlich von Getreide, Mais, Raps, Sonnenblumen- und Sojaschrot ernähren, so wäre
+      eine reine Wiesenhaltung nicht praktikabel. Es fehlt schlichtwegs der Platz.</p>
       <p>Auch wenn Veganern am liebsten wäre, dass bei der Ernte keine Tiere sterben müssten, so ist es die einzige
       Variante, die praktikabel ist und am wenigsten Leid verursacht. Die Alternative wäre es, zu verhungern.</p>
-    `
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/fd66sEL4w7E" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
+      `
   ),
 ];
 let choiceJustifications = [
