@@ -234,6 +234,10 @@ let choiceJustifications = [
       Rechtfertigung aus, etwas gerne zu tun? Wenn ja, so müsste es auch in Ordnung sein jemanden zu vergewaltigen,
       weil man nun mal gerne Sex hat oder jemanden zu töten, wenn man das gerne tut. Es ist offensichtlich, dass "etwas
       gerne zu tun" keine moralische Rechtfertigung ist, wenn diese Tat ein Opfer hat.
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/DjbVNCV20cM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
+      
       </p>`
   ),
   new Justification(
@@ -249,6 +253,10 @@ let choiceJustifications = [
       gleichzeitig die persönliche Entscheidung anderer ignorieren - etwa die persönliche Entscheidung eines Kalbes,
       bei seiner Mutter zu bleiben. Oder die eines Schweins, nicht in einer Gaskammer erstickt zu werden.
       Oder die eines Kükens, nicht am Tag seiner Geburt geschreddert zu werden.</p>
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/XNIba04Z9ss" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
+      
       `
   ),
   new Justification(
