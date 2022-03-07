@@ -256,7 +256,6 @@ let choiceJustifications = [
       <p class="my-3 flex justify-center">
         <iframe width="480" height="270" src="https://www.youtube.com/embed/XNIba04Z9ss" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>
-      
       `
   ),
   new Justification(
@@ -268,6 +267,8 @@ let choiceJustifications = [
       Mensch. Dies rechtfertigt jedoch nicht jedes beliebige Verhalten. Wäre es in Ordnung, ein Kind ins Gesicht zu
       treten, nur weil jemand dies für richtig hält? Natürlich nicht, denn die Moral einer Tat muss nicht aus dem
       Standpunkt des Täters, sondern aus derjenigen des Opfers bewertet werden.
+      <p class="my-3 flex justify-center">
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/lqFTEBOTc34" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </p>`
   ),
   new Justification(
