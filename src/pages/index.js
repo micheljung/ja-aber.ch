@@ -622,17 +622,20 @@ let pointlessJustifications = [
     "ein Einzelner ändert sowieso nichts",
     "Ein Einzelner kann sehr viel ändern.",
     `
-      <p>Man muss nicht lange nachdenken um zu erkennen, dass dies nicht zutrifft. Amazon und Facebook begannen mit
-      einem Einzelnen. COVID-19 begann mit einem Einzelnen. Oder kennt jemand Elon Musk?</p>
+      <p>Grosse gesellschaftliche Veränderungen beginnen oft mit dem Engagement und der Entschlossenheit einzelner
+      Menschen. Historische Beispiele zeigen, dass bedeutende Bewegungen und Reformen häufig von Einzelpersonen oder
+      kleinen Gruppen initiiert wurden, die für ihre Überzeugungen gekämpft haben.</p>
+      <p>Selbst wenn die Handlungen eines Einzelnen nicht sofort eine messbare Wirkung haben, können sie symbolisch
+      wichtig sein. Indem jemand beispielsweise sein Verhalten ändert oder für eine gute Sache einsteht, kann er andere
+      Menschen inspirieren und zum Umdenken anregen.</p>
       <p>Ein durchschnittlicher Europäer konsumiert in seinem Leben ca. 1000 Tiere. Nicht darin eingerechnet sind
       Tiere wie Milchkühe, männliche Kälber, Legehennen, männliche Küken, Bienen, Schafe und Fische (Beifang), die
       ebenfalls ihr Leben lassen müssen. Jährlich werden schätzungsweise 3 Billionen Tiere durch Menschen
       getötet. Selbst wenn wir von nur 2 Billionen getöteter Tiere ausgehen, so ergibt dies bei 7.8 Milliarden
-      Menschen und einer Lebenserwartung von 70 Jahren insgesamt rund 18'000 getötete Tiere pro Mensch. Ein Einzelner
-      macht bereits einen grossen Unterschied.</p>
-      <p>Doch selbst wenn man der Erste und Einzige auf der Welt wäre, der etwas tut, so ist letztendlich jeder für
-      seine eigenen Taten verantwortlich. Nur weil andere Schlechtes tun, ist dies kein Grund dafür ebenfalls
-      Schlechtes zu tun - egal ob man damit etwas verändert oder nicht.</p>
+      Menschen und einer Lebenserwartung von 70 Jahren insgesamt rund 18'000 getötete Tiere pro Mensch.</p>
+      <p>Aus Sicht eines einzelnen Individuums ist es jedoch irrelevant, wie vielen anderen Individuen ebenfalls Leid
+      zugefügt wird oder nicht. Für sie/ihn zählt das eigene Leid, und dieses liegt in der Hand eines einzelnen
+      Menschen.</p>
       `
   ),
   new Justification(
@@ -708,7 +711,7 @@ let healthJustifications = [
       <p>Worauf basiert diese Behauptung? Bestimmt nicht auf den Aussagen der <i>American Dietetic Association</i>
       oder der <i>British Dietetic Association</i>, den zwei grössten Verbänden aus Experten für Ernährung und Diät.
       Deren offizielle Stellungsnahme besagt, dass eine gut geplante pflanzliche (vegane) Ernährung sicher und geeignet
-      für alle Lebensabschnitte ist, einschließlich Schwangerschaft und Säuglingsalter. Diverse Studien kommen zudem
+      für alle Lebensabschnitte ist, einschliesslich Schwangerschaft und Säuglingsalter. Diverse Studien kommen zudem
       zum Schluss, dass eine vegane Ernährung gesundheitliche Vorteile bietet und beispielsweise das Risiko für
       Herzkrankheiten, Prostata- und Darmkrebs, Bluthochdruck und Typ 2 Diabetes wesentlich reduziert, oder diese sogar
       heilen kann.</p>
