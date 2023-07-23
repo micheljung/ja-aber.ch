@@ -1,1 +1,1 @@
-Official files for https://ja-aber-i-de-schwiiz.ch
+Official files for https://ja-aber.ch
